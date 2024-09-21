@@ -1,3 +1,5 @@
+Answers to the Questions given:  
+
 Question 1:
 
 1. In this example, So I have made a Signal Handler which sleeps for 5 seconds and hence that the signals are synchronously executed.
